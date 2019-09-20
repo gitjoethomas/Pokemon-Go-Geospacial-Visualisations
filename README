@@ -1,6 +1,5 @@
 Short piece of code designed to make visualisation of geo-spacial data in interaction with an ipython widget.
 
-300k.csv - the geo-spacial data - https://www.kaggle.com/semioniy/predictemall/downloads/predictemall.zip/3
-id_name_looku.csv - came from the pokemon wiki.
-
 I had originally wanted to a time series analysis to predict where pokemon would turn up, but the amount of data required seems unavailable - just looking at these visualisations there seem to be far fewer occurances of each pokemon than one would expect.
+
+The dropdown doesn't work on github, though the map does. Both work fine locally
